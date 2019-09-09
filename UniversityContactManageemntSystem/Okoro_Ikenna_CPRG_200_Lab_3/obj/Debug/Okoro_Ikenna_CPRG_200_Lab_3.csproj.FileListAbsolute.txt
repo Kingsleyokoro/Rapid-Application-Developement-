@@ -1,0 +1,42 @@
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\bin\Debug\Okoro_Ikenna_CPRG_200_Lab_3.exe.config
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\bin\Debug\Okoro_Ikenna_CPRG_200_Lab_3.exe
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\bin\Debug\Okoro_Ikenna_CPRG_200_Lab_3.pdb
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.AddEditFaculty.resources
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.AddEditStudent.resources
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.ContactMangerMainForm.resources
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.Properties.Resources.resources
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.csproj.GenerateResource.cache
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.exe
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.pdb
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.csprojAssemblyReference.cache
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.SearchName.resources
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\bin\Debug\Okoro_Ikenna_CPRG_200_Lab_3.exe.config
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\bin\Debug\Okoro_Ikenna_CPRG_200_Lab_3.exe
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\bin\Debug\Okoro_Ikenna_CPRG_200_Lab_3.pdb
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.csprojAssemblyReference.cache
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.AddEditFaculty.resources
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.AddEditStudent.resources
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.ContactMangerMainForm.resources
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.Properties.Resources.resources
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.SearchName.resources
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.csproj.GenerateResource.cache
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.exe
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.pdb
+C:\Users\835268\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.AddCourses.resources
+C:\Users\Ikenna\OneDrive - Southern Alberta Institute of Technology\Okoro_Ikenna_CPRG_200_Lab_3\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.AddCourses.resources
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\bin\Debug\Okoro_Ikenna_CPRG_200_Lab_3.exe.config
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\bin\Debug\Okoro_Ikenna_CPRG_200_Lab_3.exe
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\bin\Debug\Okoro_Ikenna_CPRG_200_Lab_3.pdb
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.csprojAssemblyReference.cache
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.AddCourses.resources
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.AddEditFaculty.resources
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.AddEditStudent.resources
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.ContactMangerMainForm.resources
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.Properties.Resources.resources
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.SearchName.resources
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.csproj.GenerateResource.cache
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.exe
+C:\Users\Ikenna\Desktop\UniversityContactManageemntSystem\Okoro_Ikenna_CPRG_200_Lab_3\obj\Debug\Okoro_Ikenna_CPRG_200_Lab_3.pdb
