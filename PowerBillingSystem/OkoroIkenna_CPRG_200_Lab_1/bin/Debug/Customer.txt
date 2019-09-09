@@ -1,0 +1,8 @@
+1234|Kingsley|R|$8.91
+1234|Kingsley|R|$8.91
+23456|Roland|R|$8.34
+987|Thomas|I|$116.00
+234|Mohammed|R|$8.34
+1234|KingKong|R|$16.40
+6567|Ricardo|C|$60.00
+5674|Andy|R|$58.00

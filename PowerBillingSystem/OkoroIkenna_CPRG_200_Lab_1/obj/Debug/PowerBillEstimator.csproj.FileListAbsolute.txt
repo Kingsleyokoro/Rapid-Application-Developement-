@@ -1,0 +1,19 @@
+C:\Users\Ikenna\Desktop\OkoroIkenna_CPRG_200_Lab_1\OkoroIkenna_CPRG_200_Lab_1\bin\Debug\OkoroIkenna_CPRG_200_Lab_1.exe.config
+C:\Users\Ikenna\Desktop\OkoroIkenna_CPRG_200_Lab_1\OkoroIkenna_CPRG_200_Lab_1\bin\Debug\OkoroIkenna_CPRG_200_Lab_1.exe
+C:\Users\Ikenna\Desktop\OkoroIkenna_CPRG_200_Lab_1\OkoroIkenna_CPRG_200_Lab_1\bin\Debug\OkoroIkenna_CPRG_200_Lab_1.pdb
+C:\Users\Ikenna\Desktop\OkoroIkenna_CPRG_200_Lab_1\OkoroIkenna_CPRG_200_Lab_1\obj\Debug\CustomerData.PowerBillingSystem.resources
+C:\Users\Ikenna\Desktop\OkoroIkenna_CPRG_200_Lab_1\OkoroIkenna_CPRG_200_Lab_1\obj\Debug\OkoroIkenna_CPRG_200_Lab_1.Properties.Resources.resources
+C:\Users\Ikenna\Desktop\OkoroIkenna_CPRG_200_Lab_1\OkoroIkenna_CPRG_200_Lab_1\obj\Debug\PowerBillEstimator.csproj.GenerateResource.cache
+C:\Users\Ikenna\Desktop\OkoroIkenna_CPRG_200_Lab_1\OkoroIkenna_CPRG_200_Lab_1\obj\Debug\PowerBillEstimator.csproj.CoreCompileInputs.cache
+C:\Users\Ikenna\Desktop\OkoroIkenna_CPRG_200_Lab_1\OkoroIkenna_CPRG_200_Lab_1\obj\Debug\OkoroIkenna_CPRG_200_Lab_1.exe
+C:\Users\Ikenna\Desktop\OkoroIkenna_CPRG_200_Lab_1\OkoroIkenna_CPRG_200_Lab_1\obj\Debug\OkoroIkenna_CPRG_200_Lab_1.pdb
+C:\Users\Ikenna\Documents\GitHub\Rapid Application Developement with C#\PowerBillingSystem\OkoroIkenna_CPRG_200_Lab_1\bin\Debug\OkoroIkenna_CPRG_200_Lab_1.exe.config
+C:\Users\Ikenna\Documents\GitHub\Rapid Application Developement with C#\PowerBillingSystem\OkoroIkenna_CPRG_200_Lab_1\bin\Debug\OkoroIkenna_CPRG_200_Lab_1.exe
+C:\Users\Ikenna\Documents\GitHub\Rapid Application Developement with C#\PowerBillingSystem\OkoroIkenna_CPRG_200_Lab_1\bin\Debug\OkoroIkenna_CPRG_200_Lab_1.pdb
+C:\Users\Ikenna\Documents\GitHub\Rapid Application Developement with C#\PowerBillingSystem\OkoroIkenna_CPRG_200_Lab_1\obj\Debug\PowerBillEstimator.csprojAssemblyReference.cache
+C:\Users\Ikenna\Documents\GitHub\Rapid Application Developement with C#\PowerBillingSystem\OkoroIkenna_CPRG_200_Lab_1\obj\Debug\CustomerData.PowerBillingSystem.resources
+C:\Users\Ikenna\Documents\GitHub\Rapid Application Developement with C#\PowerBillingSystem\OkoroIkenna_CPRG_200_Lab_1\obj\Debug\OkoroIkenna_CPRG_200_Lab_1.Properties.Resources.resources
+C:\Users\Ikenna\Documents\GitHub\Rapid Application Developement with C#\PowerBillingSystem\OkoroIkenna_CPRG_200_Lab_1\obj\Debug\PowerBillEstimator.csproj.GenerateResource.cache
+C:\Users\Ikenna\Documents\GitHub\Rapid Application Developement with C#\PowerBillingSystem\OkoroIkenna_CPRG_200_Lab_1\obj\Debug\PowerBillEstimator.csproj.CoreCompileInputs.cache
+C:\Users\Ikenna\Documents\GitHub\Rapid Application Developement with C#\PowerBillingSystem\OkoroIkenna_CPRG_200_Lab_1\obj\Debug\OkoroIkenna_CPRG_200_Lab_1.exe
+C:\Users\Ikenna\Documents\GitHub\Rapid Application Developement with C#\PowerBillingSystem\OkoroIkenna_CPRG_200_Lab_1\obj\Debug\OkoroIkenna_CPRG_200_Lab_1.pdb
